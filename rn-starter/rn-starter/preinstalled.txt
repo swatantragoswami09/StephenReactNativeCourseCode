@@ -1,0 +1,4 @@
+Rn repo---------->https://github.com/0x-cygnet/rn-starter
+
+npm install
+npm start
